@@ -1,6 +1,6 @@
 {
   "name": "antwar-default",
-  "namespace": true,
+  "namespace": false,
   "reason": { "react-jsx": 2 },
   "refmt": 3,
   "bs-dependencies": ["reason-react"],

@@ -8,4 +8,5 @@ let make = (~target: string, ~href: string, ~text: string, _children) => {
     render: _self => {
         <a href target> (s(text)) </a>
     }
+    
 }
